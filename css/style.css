@@ -1199,6 +1199,7 @@ a {
 .section-text-image section #image-container img {
   border-radius: 0;
   box-shadow: none;
+  width: 80%;
 }
 .section-text-image section .img-positioning {
   padding-top: 4rem;
@@ -1262,7 +1263,7 @@ a {
 }
 .section-text-video section .video-container .video-js .vjs-poster {
   background-color: rgba(255, 255, 255, 0.85) !important;
-  background-size: 80% auto !important;
+  background-size: contain !important;
   background-repeat: no-repeat !important;
   background-position: center !important;
 }
