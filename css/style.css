@@ -692,6 +692,7 @@ header {
 .modal .modal-header .modal-title {
   font-size: 1.25rem;
   font-weight: 700;
+  color: #ffffff;
 }
 .modal .modal-header .close,
 .modal .modal-header .modal-close {
