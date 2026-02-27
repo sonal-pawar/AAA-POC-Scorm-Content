@@ -1258,12 +1258,16 @@ a {
   width: 100%;
   border-radius: 4px;
   overflow: hidden;
+  font-size: 14px;
 }
 .section-text-video section .video-container .video-js .vjs-poster {
-  background-color: rgba(255, 255, 255, 0.85);
-  background-size: 80% auto;
-  background-repeat: no-repeat;
-  background-position: center;
+  background-color: rgba(255, 255, 255, 0.85) !important;
+  background-size: 80% auto !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+}
+.section-text-video section .video-container .video-js .vjs-control-bar {
+  font-size: 14px;
 }
 .section-text-video section .video-container .video-js .vjs-big-play-button {
   background-color: rgba(51, 0, 102, 0.8);
