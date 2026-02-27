@@ -368,7 +368,7 @@ header {
 .nav-right {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 16px;
 }
 
 .home-btn {
@@ -405,9 +405,8 @@ header {
   font-size: 0.9rem;
   font-weight: 700;
   color: #330066;
-  background: #ebe6f0;
-  padding: 4px 16px;
-  border-radius: 4px;
+  background: none;
+  padding: 0;
   white-space: nowrap;
 }
 
@@ -1259,6 +1258,12 @@ a {
   width: 100%;
   border-radius: 4px;
   overflow: hidden;
+}
+.section-text-video section .video-container .video-js .vjs-poster {
+  background-color: rgba(255, 255, 255, 0.85);
+  background-size: 80% auto;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .section-text-video section .video-container .video-js .vjs-big-play-button {
   background-color: rgba(51, 0, 102, 0.8);
