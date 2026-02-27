@@ -41,7 +41,7 @@
         ],
         "video": {
             "source": "https://sonal-pawar.github.io/AAA-POC-Scorm-Content/assets/media/videos/canada_eta.mp4",
-            "poster": "",
+            "poster": "https://sonal-pawar.github.io/AAA-POC-Scorm-Content/assets/media/videos/poster_image.png",
             "alt-text": "Electronic Travel Authorization - What you need to know"
         }
     }
