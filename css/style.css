@@ -368,6 +368,25 @@ header {
 .nav-right {
   display: flex;
   align-items: center;
+  gap: 8px;
+}
+
+.home-btn {
+  background: none;
+  border: none;
+  color: #330066;
+  font-size: 1.25rem;
+  cursor: pointer;
+  padding: 4px;
+  line-height: 1;
+  transition: color 0.3s ease;
+}
+.home-btn:hover {
+  color: rgb(25.5, 0, 51);
+}
+.home-btn:focus {
+  outline: 3px solid #ffd301;
+  outline-offset: 2px;
 }
 
 .course-title-header {
@@ -1179,8 +1198,8 @@ a {
   }
 }
 .section-text-image section #image-container img {
-  border-radius: 4px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 0;
+  box-shadow: none;
 }
 .section-text-image section .img-positioning {
   padding-top: 4rem;
@@ -1300,9 +1319,9 @@ a {
   color: #000;
 }
 .section-mrq section img.img-fluid {
-  border-radius: 4px;
+  border-radius: 0;
   margin-bottom: 16px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: none;
 }
 
 .section-mrq .input-mrq {
