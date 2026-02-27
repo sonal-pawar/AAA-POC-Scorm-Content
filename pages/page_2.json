@@ -1,0 +1,42 @@
+{
+    "local": {
+        "orientation": "flex-row",
+        "textOrder": "order-1",
+        "imgOrder": "order-2",
+        "close_btn_label": "Close",
+        "text": [
+            {
+                "title": "ICAO",
+                "tagname": "h2"
+            },
+            {
+                "textcontent": "The International Civil Aviation Organization (ICAO) sets the international standard for civil aviation.",
+                "tagname": "p"
+            },
+            {
+                "textcontent": "Twenty-four hours a day, 365 days of the year, an aircraft takes off or lands every few seconds somewhere on the face of the Earth. Every one of these flights is handled in the same uniform manner, whether by air traffic control, airport authorities, or pilots at the controls of their aircraft.",
+                "tagname": "p"
+            },
+            {
+                "textcontent": "This world-wide consistency in procedures and systems is made possible by the existence of universally accepted standards known as Standards and Recommended Practices (SARPs). SARPs cover all technical and operational aspects of international civil aviation, such as safety, personnel licensing, operation of aircraft, aerodromes, air traffic services, accident investigation, and the environment.",
+                "tagname": "p"
+            },
+            {
+                "textcontent": "ICAO Annex 2 contains the International Standards Rules of the Air and Annex 6 contains the International Standards Operation of Aircraft.",
+                "tagname": "p"
+            },
+            {
+                "textcontent": "Pilots should always review the individual State's Rules and Regulations so as to be familiar with specific operating restrictions and/or practices. Pilots must abide by the aviation rules of the country they are visiting if they are different than ICAO standards.",
+                "tagname": "p"
+            }
+        ],
+        "image": [
+            {
+                "tagname": "image",
+                "source": "assets/media/images/ICAO_logo.jpg",
+                "alt-text": "ICAO Logo - International Civil Aviation Organization"
+            }
+        ],
+        "pie_chart": [{ "chart": false }]
+    }
+}

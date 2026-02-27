@@ -1,0 +1,56 @@
+{
+    "local": {
+        "btn_submit": "Submit",
+        "close_btn_label": "Close",
+        "validation_msg": "Please select at least one option before submitting.",
+        "btn_try_again": "Try Again",
+        "isSurveyQuestion": false,
+        "isoptionWiseFeedback": false,
+        "exit_window": false,
+        "maxAttemptFeedback": {
+            "maxAttempt": 2,
+            "feedbackText": "Maximum attempts reached. The correct answer has been highlighted."
+        },
+        "text": [
+            {
+                "title": "Knowledge Check: CANPASS",
+                "tagname": "h2"
+            },
+            {
+                "textcontent": "Review the following question about the CANPASS Corporate Aircraft Program.",
+                "tagname": "p"
+            }
+        ],
+        "image": [],
+        "question": {
+            "question_id": 2,
+            "question": "Which statements are true regarding the CANPASS Corporate Aircraft Program?",
+            "instruction": "Select all that apply.",
+            "instructionCorrectIncorrect": "Select all correct answers.",
+            "options": [
+                "CANPASS can only be used on direct flights from the U.S. to Canada, and only for Part 91 operators.",
+                "CANPASS is available for both private and commercially operated flights entering Canada.",
+                "CANPASS can be used for members traveling from Canada to the U.S.",
+                "CANPASS can only be used at designated Canadian Airports of Entry."
+            ],
+            "feedback": [""],
+            "answer": [0, 3]
+        },
+        "correct_feedback_modal": {
+            "modal_title": "Correct!",
+            "modal_body": [
+                {
+                    "text-content": "Well done! CANPASS can only be used on direct flights from the U.S. to Canada for Part 91 operators, and it can only be used at designated Canadian Airports of Entry."
+                }
+            ]
+        },
+        "incorrect_feedback_modal": {
+            "modal_title": "Incorrect",
+            "modal_body": [
+                {
+                    "text-content": "That is not correct. CANPASS is limited to direct flights from the U.S. to Canada for Part 91 operators only, and can only be used at designated Canadian Airports of Entry. It cannot be used for commercially operated flights or for travel from Canada to the U.S."
+                }
+            ]
+        }
+    }
+}

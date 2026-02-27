@@ -1,0 +1,48 @@
+{
+    "local": {
+        "orientation": "flex-row",
+        "textOrder": "order-1",
+        "imgOrder": "order-2",
+        "close_btn_label": "Close",
+        "text": [
+            {
+                "title": "Canada eTA",
+                "tagname": "h2"
+            },
+            {
+                "textcontent": "Canada requires Electronic Travel Authorization (eTA) for all visa-exempt foreign nationals entering the country by air. The system is similar to the ESTA (Electronic System for Travel Authorization) currently in use by the U.S.",
+                "tagname": "p"
+            },
+            {
+                "textcontent": "Visa-exempt foreign nationals, other than U.S. citizens, must have an eTA prior to being processed by Customs, Immigration, and Quarantine (CIQ) prior to entering Canada.",
+                "tagname": "p"
+            },
+            {
+                "textcontent": "The following are exempt from the eTA requirement:",
+                "tagname": "i"
+            },
+            {
+                "list": [{
+                    "level1": [
+                        { "textcontent": "Citizens of the United States" },
+                        { "textcontent": "Individuals already in possession of a Canadian temporary resident visa" },
+                        { "textcontent": "Travelers with a valid Canadian visa" },
+                        { "textcontent": "Certain foreign diplomats" },
+                        { "textcontent": "Commercial air crew" },
+                        { "textcontent": "Individuals in transit through Canada with a visa for the destination country" },
+                        { "textcontent": "Canadian permanent residents" }
+                    ]
+                }]
+            },
+            {
+                "textcontent": "Approved eTAs are good for five years or until the passport expires, whichever comes first.",
+                "tagname": "p"
+            }
+        ],
+        "video": {
+            "source": "assets/media/videos/canada_eta.mp4",
+            "poster": "",
+            "alt-text": "Electronic Travel Authorization - What you need to know"
+        }
+    }
+}

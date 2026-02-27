@@ -1,0 +1,58 @@
+{
+    "local": {
+        "btn_submit": "Submit",
+        "close_btn_label": "Close",
+        "validation_msg": "Please select an answer before submitting.",
+        "btn_try_again": "Try Again",
+        "isSurveyQuestion": false,
+        "isBranching": false,
+        "isoptionWiseFeedback": false,
+        "exit_window": false,
+        "text": [
+            {
+                "title": "Knowledge Check: Canadian IAPI",
+                "tagname": "h2"
+            },
+            {
+                "textcontent": "Review the following statement and select the correct answer.",
+                "tagname": "p"
+            }
+        ],
+        "image": [],
+        "question": {
+            "question_id": 1,
+            "question": "Canadian Interactive Advance Passenger Information (IAPI) is the same as U.S. eAPIS and is required for all passengers inbound to and outbound from Canada.",
+            "instruction": "Select the correct answer.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "feedback": [""],
+            "answer": 1
+        },
+        "correct_feedback_modal": {
+            "modal_title": "Correct!",
+            "modal_body": [
+                {
+                    "text-content": "That's correct. Canadian IAPI and U.S. eAPIS are different systems with different requirements, although both serve to provide advance passenger information to their respective governments."
+                }
+            ]
+        },
+        "incorrect_feedback_modal": {
+            "modal_title": "Incorrect",
+            "modal_body": [
+                {
+                    "text-content": "That is incorrect. Canadian IAPI is NOT the same as U.S. eAPIS. While both systems collect advance passenger information, they are separate programs with different requirements and submission processes."
+                }
+            ]
+        },
+        "mcq_base_modals": {
+            "modal_title": "Notice",
+            "modal_body": [
+                {
+                    "text-content": "Please review the relevant content and try again."
+                }
+            ]
+        }
+    }
+}

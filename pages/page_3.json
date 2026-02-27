@@ -1,0 +1,35 @@
+{
+    "local": {
+        "orientation": "",
+        "textOrder": "",
+        "imgOrder": "",
+        "close_btn_label": "Close",
+        "text": [
+            {
+                "title": "WGS-84",
+                "tagname": "h2"
+            },
+            {
+                "textcontent": "ICAO and the global aviation community adopted the World Geodetic System of 1984 (WGS-84), and set January 1998 as the compliance date. Many countries have complied, but some have not; so it is very important when navigating internationally using any satellite-based system for crews to know if a country is compliant.",
+                "tagname": "p"
+            },
+            {
+                "textcontent": "If not compliant, use only ground-based navigation systems in that country.",
+                "tagname": "p"
+            },
+            {
+                "textcontent": "Jeppesen publishes a WGS-84 Status Report where you may check on the status of countries worldwide. It is the pilot's responsibility to verify compliance before relying on satellite-based navigation in international airspace.",
+                "tagname": "p"
+            },
+            {
+                "textcontent": "The WGS-84 system provides a standard coordinate reference frame for the Earth, used for GPS and other satellite navigation systems. Without WGS-84 compliance, there may be discrepancies between charted positions and actual GPS positions.",
+                "tagname": "p"
+            }
+        ],
+        "image": [],
+        "question": {
+            "feedback": [""]
+        },
+        "cards": []
+    }
+}
