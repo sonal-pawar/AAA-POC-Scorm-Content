@@ -7,7 +7,7 @@
             "primary_color": "#330066",
             "accent_color": "#ffd301",
             "light_bg": "#ebe6f0",
-            "logo": "assets/common/images/logo.png"
+            "logo": "https://sonal-pawar.github.io/AAA-POC-Scorm-Content/assets/common/images/logo.png"
         },
         "start_button_text": "Begin Course"
     }

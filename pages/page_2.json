@@ -33,7 +33,7 @@
         "image": [
             {
                 "tagname": "image",
-                "source": "assets/media/images/ICAO_logo.jpg",
+                "source": "https://sonal-pawar.github.io/AAA-POC-Scorm-Content/assets/media/images/ICAO_logo.jpg",
                 "alt-text": "ICAO Logo - International Civil Aviation Organization"
             }
         ],
