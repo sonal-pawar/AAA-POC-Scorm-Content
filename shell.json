@@ -1,0 +1,57 @@
+{
+    "courseID": "AMGJETS_147052",
+    "module": [
+        {
+            "module_title": "North America Recurrent",
+            "chapter": [
+                {
+                    "chapter_title": "Intl Proc - North America",
+                    "page": [
+                        {
+                            "template_type": "launch_page",
+                            "json_path": "pages/page_1.json",
+                            "hbs_path": "templates/launch_page.hbs",
+                            "title": "Welcome"
+                        },
+                        {
+                            "template_type": "text_and_img",
+                            "json_path": "pages/page_2.json",
+                            "hbs_path": "templates/text_and_img.hbs",
+                            "title": "ICAO"
+                        },
+                        {
+                            "template_type": "simple_text",
+                            "json_path": "pages/page_3.json",
+                            "hbs_path": "templates/simple_text.hbs",
+                            "title": "WGS-84"
+                        },
+                        {
+                            "template_type": "text_and_video",
+                            "json_path": "pages/page_4.json",
+                            "hbs_path": "templates/text_and_video.hbs",
+                            "title": "Canada eTA"
+                        },
+                        {
+                            "template_type": "mcq",
+                            "json_path": "pages/page_5.json",
+                            "hbs_path": "templates/mcq.hbs",
+                            "title": "Knowledge Check: Canadian IAPI"
+                        },
+                        {
+                            "template_type": "mrq",
+                            "json_path": "pages/page_6.json",
+                            "hbs_path": "templates/mrq.hbs",
+                            "title": "Knowledge Check: CANPASS"
+                        },
+                        {
+                            "template_type": "exit_page",
+                            "json_path": "pages/page_7.json",
+                            "hbs_path": "templates/exit_page.hbs",
+                            "title": "Course Complete"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
